@@ -36,7 +36,6 @@ GROUP BY genero;
 agrupará todos os clientes por genero (Feminino ou Masculino)
 
 Comandos como MIN(), MAX() e AVG() serve muito bem nesse contexto para saber a idade mínima, máxima e média dos clientes. Basta acrescentar idade (ou como estiver escrito no banco de dados da empresa) em meio às parênteses! MIN(idade), MAX(idade), AVG(idade).
-![[Pasted image 20251129115413.png]]
 O comando COUNT() serve pra contar a quantidade de clientes, podendo ser utilizado pra contar a quantidade de usuários em um site ou qualquer outra necessidade.
 
 O comando ORDER BY serve para ordenar de maneira crescente ou decrescente uma lista de dados a partir de uma condição:
