@@ -1,3 +1,4 @@
+# Comandos do MySQL:
 No MySQL temos os seguintes comandos:
 
 SELECT = Serve para selecionar algo do banco de dados;
